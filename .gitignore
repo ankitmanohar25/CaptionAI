@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
